@@ -1,1 +1,5 @@
 ![add doctor](https://github.com/WondaByte/hospitalManagement/assets/28828156/ecdac0a5-53b4-4dfb-90a3-a09beca92030)
+![homepage](https://github.com/WondaByte/hospitalManagement/assets/28828156/7f3490bc-391b-4820-835f-72c6e70f822d)
+![crud_all doctors](https://github.com/WondaByte/hospitalManagement/assets/28828156/e7b08546-a542-4205-b671-7c13019a983d)
+![register](https://github.com/WondaByte/hospitalManagement/assets/28828156/311920ab-f812-422a-96b6-361bdc723ce4)
+![login](https://github.com/WondaByte/hospitalManagement/assets/28828156/660a421b-602d-4b3d-8c06-99be8953ade3)
